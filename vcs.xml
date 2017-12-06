@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/ecu-csci-4540/GoogleSignIn.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ecu-csci-4540/pirate-places-stage7-sky2811.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/AndroidStudioProjects" />
